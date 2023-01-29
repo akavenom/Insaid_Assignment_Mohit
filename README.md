@@ -1,4 +1,4 @@
-# Insaid_Assignment_W
+# Insaid_Assignment_Project
 
 This a fully responsive website Project for Insaid Internship program.
 
